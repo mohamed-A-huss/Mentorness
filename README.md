@@ -1,2 +1,2 @@
 # Mentorness
-Mentorness 3 Projects
+Mentorness Machine Learning Internship Projects
